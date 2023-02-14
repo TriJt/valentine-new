@@ -4,7 +4,9 @@ html {
 
 body {
   margin: 0;
-  font-family: "Work Sans", sans-serif;
+  font-family: "Barlow Condensed", Arial, sans-serif;
+  background-color: #ff8dc7;
+  color: #fff;
 }
 
 .container {
@@ -80,7 +82,7 @@ body {
   right: 5px;
   bottom: 5px;
   color: #fff;
-  background-color: rgb(21, 161, 237);
+  background-color: #ffddd2;
   padding: 5px 8px;
   border-radius: 3px;
 }
